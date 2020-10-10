@@ -1,4 +1,4 @@
-# Homweork#1: SASS Build
+# Homework#1: SASS Build
 The objective of this project is for us students to rebuild a provided webpage CSS file into a modular SASS build so we can better understand the current industry standard workflow we are expected to follow going forward.
 ## Installation
 No installation need, just download/clone the repo and run it.
