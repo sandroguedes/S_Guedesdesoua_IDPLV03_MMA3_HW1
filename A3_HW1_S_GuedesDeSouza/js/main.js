@@ -6,7 +6,6 @@
     fetch('./data/classData.json')
     .then(res => res.json())
 
-    // variables to refer back to in the text box
     .then(data => {
     // variables to refer back to in the text box
             let CLASS = document.querySelector('.profPanelText').children,
