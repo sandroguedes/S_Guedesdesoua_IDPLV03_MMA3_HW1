@@ -1,5 +1,5 @@
-# Homework#1: SASS Build
-The objective of this project is for us students to rebuild a provided webpage CSS file into a modular SASS build so we can better understand the current industry standard workflow we are expected to follow going forward.
+# Homework#2: SASS Build with AJAX data-fetching
+The objective of this project is for us students to rebuild a provided webpage CSS file into a modular SASS build and add-in some clever data-fecthing from a JSON file through AJAX so we can better understand the current industry standard workflow we are expected to follow going forward.
 ## Installation
 No installation need, just download/clone the repo and run it.
 ## License
